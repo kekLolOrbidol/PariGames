@@ -1,0 +1,149 @@
+[
+    {
+      "name": "Sekiro: Shadows Die Twice",
+      "category": "przygodowe, gry akcji, TPP, fantasy",
+      "description": "Przygodowa gra akcji od studia FromSoftware, która przenosi nas do alternatywnej wersji XVI-wiecznej Japonii. Sekiro: Shadows Die Twice stawia na eksplorację rozbudowanych poziomów oraz skradanie się zamiennie z toczeniem walk przypominających serię Dark Souls",
+      "gameId": 1,
+      "photo": "Sekiro/cover.jpg",
+      "premiere": "22.03.2019",
+      "producer": "FromSoftware",
+      "rating": "8.1",
+      "galleryLinks": [
+        "Sekiro/gallery_one.jpg",
+        "Sekiro/gallery_two.jpg",
+        "Sekiro/gallery_three.jpg"
+      ],
+      "shopLinks": [
+        "https://www.ultima.pl/ct/playstation-4/gry/role-playing-rpg/sekiro-shadows-die-twice-1",
+        "https://www.morele.net/sekiro-shadows-die-twice-4141985",
+        "https://www.e-key.eu/pl/sekiro-shadows-die-twice.html"
+      ],
+      "videoId": "FLjuoF5Si1U"
+    },
+	{
+      "name": "Assassin's Creed: Odyssey",
+      "category": "RPG, TPP, skradanki",
+      "description": "W przeciwieństwie do poprzednich części serii, które były grami akcji, omawiana produkcja wykonała silny zwrot w stronę gatunku RPG, upodabniając się do gry Wiedźmin 3: Dziki Gon. Przemierzając antyczną Grecję, gracz m.in. podejmuje wybory moralne w misjach, odgrywa postać w interaktywnych dialogach i awansuje na kolejne poziomy doświadczenia",
+      "gameId": 2,
+      "photo": "ACOddysey/cover.jpg",
+      "premiere": "05.10.2018",
+      "producer": "Ubisoft",
+      "rating": "6.9",
+      "galleryLinks": [
+        "ACOddysey/gallery_one.jpg",
+        "ACOddysey/gallery_two.jpg",
+        "ACOddysey/gallery_three.jpg"
+      ],
+      "shopLinks": [
+        "https://www.ultima.pl/ct/pc/gry/akcja/assassin-s-creed-odyssey",
+        "https://www.morele.net/assassin-s-creed-odyssey-4140983",
+        ""
+      ],
+      "videoId": "s_SJZSAtLBA"
+    },
+	{
+      "name": "Wiedźmin 3: Dziki Gon",
+      "category": "RPG, TPP, fantasy,",
+      "description": "W grze Wiedźmin 3: Dziki Gon ponownie wcielamy się w znanego z wcześniejszych odsłon wiedźmina. Główna oś fabularna obraca się wokół kilku oddzielnych wątków. Wśród nich znalazło się poszukiwanie utraconej miłości Geralta oraz inwazja Nilfgaardu na Królestwa Północy. Spróbujemy też powstrzymać tytułowy Dziki Gon, prześladujący wiedźmina zarówno w powieściach, jak i obecny w pierwszej i w nikłym stopniu w drugiej części serii. Wszystkie te główne zadania oferują filmową jakość opowiadanej historii, z rozgałęzionymi ścieżkami wydarzeń, imponującymi scenkami przerywnikowymi i starannie wyreżyserowanymi sekwencjami",
+      "gameId": 3,
+      "photo": "Witcher3/cover.jpg",
+      "premiere": "19.05.2015",
+      "producer": "CD Projekt RED",
+      "rating": "9.2",
+      "galleryLinks": [
+        "Witcher3/gallery_one.jpg",
+        "Witcher3/gallery_two.jpg",
+        "Witcher3/gallery_three.jpg"
+      ],
+      "shopLinks": [
+        "https://www.ultima.pl/ct/playstation-4/gry/role-playing-rpg/witcher-3-game-of-the-year-edition",
+        "https://www.morele.net/wiedzmin-iii-dziki-gon-esd-1572622",
+        "https://www.e-key.eu/pl/the-witcher-3-wild-hunt-game-of-the-year-edition-gog.html"
+      ],
+      "videoId": "x05hIYpw1lU"
+    },
+	{
+      "name": "Gothic 2: Gold Edition",
+      "category": "RPG, TPP, fantasy, RPG akcji",
+      "description": "Podobnie jak w części poprzedniej akcja Gothic II toczy się w świecie fantasy i kontynuuje fabułę poprzedniczki, tj. wojny pomiędzy siłami zła (cała masa potworów, Orków i Ogrów pod przewodnictwem Smoków) i Ludźmi. Jednak tym razem nie poruszamy się już tylko wewnątrz kolonii przestępców objętej zasięgiem magicznej bariery, a na jej zewnątrz. Akcja toczy się w nowych bardzo rozległych i różnorodnych lokacjach, m.in. miasteczko nadmorskie, klasztor, biblioteka, farma, Wyspa Smoków, zamek oblężony przez Orki",
+      "gameId": 4,
+      "photo": "Gothic2/cover.jpg",
+      "premiere": "29.11.2002",
+      "producer": "Piranha Bytes",
+      "rating": "8.9",
+      "galleryLinks": [
+        "Gothic2/gallery_one.jpg",
+        "Gothic2/gallery_two.jpg",
+        "Gothic2/gallery_three.jpg"
+      ],
+      "shopLinks": [
+        "https://www.ultima.pl/ct/pc/gry/role-playing-rpg/saga-gothic-ekstra-klasyka",
+        "https://www.morele.net/gothic-ii-gold-edition-steam-cd-key-5617901",
+        ""
+      ],
+      "videoId": "wjh9vtAohi0"
+    },
+	{
+      "name": "Horizon Zero Dawn: Complete Edition",
+      "category": "Akcji, TPP, science fiction",
+      "description": "Akcja Horizon Zero Dawn rozgrywa się w czasach, gdy ludzkość najlepsze lata dawno ma za sobą. Cywilizacja upadła, a jednostki, które zdołały przetrwać, gromadzą się w plemiona zamieszkujące dzikie tereny nowego świata. Jednak nie wszystko na planecie cofnęło się w rozwoju – nadrzędną rolę w środowisku przejęły maszyny, które w niewyjaśnionych okolicznościach wyewoluowały w inteligentne „zwierzęta”. Gracz wciela się w Aloy – młodą, ciekawską i wojowniczą dziewczynę, która pragnie zgłębić tajemnice dawnej cywilizacji, jednocześnie starając się poznać własne przeznaczenie",
+      "gameId": 5,
+      "photo": "HorizonZD/cover.jpeg",
+      "premiere": "07.08.2020",
+      "producer": "Guerrilla Games",
+      "rating": "7.9",
+      "galleryLinks": [
+        "HorizonZD/gallery_one.jpg",
+        "HorizonZD/gallery_two.jpg",
+        "HorizonZD/gallery_three.jpg"
+      ],
+      "shopLinks": [
+        "https://www.ultima.pl/ct/playstation-4/gry/akcja/horizon-zero-dawn-complete-edition",
+        "https://www.morele.net/horizon-zero-dawn-complete-edition-1671269",
+        "https://www.e-key.eu/pl/horizon-zero-dawn-complete-edition.html"
+      ],
+      "videoId": "u4-FCsiF5x4"
+    },
+	{
+      "name": "Detroit: Become Human ",
+      "category": "przygodowe, cyberpunk, TPP, science fiction",
+      "description": "Osadzona w cyberpunkowych realiach filmowa przygodówka, za której powstanie odpowiadają deweloperzy z francuskiego studia Quantic Dream – twórcy takich gier jak Fahrenheit, Beyond: Two Souls czy bestsellerowe Heavy Rain",
+      "gameId": 6,
+      "photo": "Detroit/cover.jpg",
+      "premiere": "12.12.2019",
+      "producer": "Quantic Dream",
+      "rating": "7.2",
+      "galleryLinks": [
+        "Detroit/gallery_one.jpg",
+        "Detroit/gallery_two.jpg",
+        "Detroit/gallery_three.jpg"
+      ],
+      "shopLinks": [
+        "https://www.ultima.pl/ct/playstation-4/gry/przygodowe/detroit-become-human",
+        "https://www.morele.net/detroit-become-human-4584344/",
+		""
+      ],
+      "videoId": "QD1pbWCJcKQ"
+    },
+	{
+	"name": "Minecraft",
+    "category": "przygodowe, FPP, TPP, fantasy, multiplayer",
+    "description": "Wymykająca się próbom ścisłej klasyfikacji gatunkowej sandboksowa gra niezależnego studia Mojang AB. Minecraft zaprojektowano z myślą o kreatywności graczy, którzy mogą niemal dowolnie zmieniać zbudowany z voxeli (sześciennych bloków) wirtualny świat",
+    "gameId": 7,
+    "photo": "Minecraft/cover.jpg",
+    "premiere": "18.11.2011",
+    "producer": "Mojang Studios",
+    "rating": "8.0",
+    "galleryLinks": [
+	  "Minecraft/gallery_one.png",
+      "Minecraft/gallery_two.jpg",
+      "Minecraft/gallery_three.png"
+    ],
+    "shopLinks": [
+      "https://www.ultima.pl/ct/playstation-4/gry/role-playing-rpg/minecraft-pl-1",
+      "https://www.morele.net/minecraft-bedrock-edition-pl-eng-ps4-6600849/",
+      "https://www.e-key.eu/pl/minecraft.html"
+    ],
+    "videoId": "MmB9b5njVbA"
+  }
+]

@@ -1,0 +1,49 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="textShadowOverlay">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowDx">5</item>
+        <item name="android:shadowDy">5</item>
+        <item name="android:shadowRadius">23</item>
+    </style>
+
+    <style name="textShadowOverlayWhite">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:shadowColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowDx">5</item>
+        <item name="android:shadowDy">5</item>
+        <item name="android:shadowRadius">23</item>
+    </style>
+
+    <style name="tab.layout.appearance" parent="Theme.MaterialComponents">
+        <item name="tabSelectedTextColor">@color/lightGreen</item>
+        <item name="tabInlineLabel">true</item>
+        <item name="tabIndicatorColor">@color/lightGreen</item>
+        <item name="colorPrimary">@color/lightGreen</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="NavigationBarBottom" parent="Theme.MaterialComponents">
+        <item name="colorPrimary">@color/lightGreen</item>
+        <item name="colorSecondary">@color/lightGreen</item>
+    </style>
+
+   <!-- <style name="TextAppearance.App.Button" parent="TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">@font/rubik</item>
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="textAppearanceButton">@style/TextAppearance.App.Button</item>
+    </style>-->
+</resources>

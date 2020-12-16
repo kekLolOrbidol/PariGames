@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">GameFuture</string>
+    <string name="app_logo">Logo</string>
+    <string name="toggle_menu">Menu Toggle</string>
+    <string name="favourites">Favourites</string>
+    <string name="update">Update</string>
+    <string name="exit">Exit</string>
+    <string name="home">Home</string>
+    <string name="game_image">Game Image</string>
+    <string name="splash_text">From Gamers For Gamers </string>
+    <string name="splash_skip">Skip waiting</string>
+    <string name="loading_starting">Starting loading the data</string>
+    <string name="loading_finished">Finished loading the data</string>
+    <string name="data_parsing_error">Json parsing error: </string>
+    <string name="loading_malformedException">MalformedURLException: </string>
+    <string name="loading_protocolException">"ProtocolException: </string>
+    <string name="loading_ioException">IOException: </string>
+    <string name="loading_exception">Exception: </string>
+    <string name="loading_information">Loading the data. It may take a while&#8230;</string>
+    <string name="loading_error">error has occurred</string>
+
+    <string name="alert_description">Description</string>
+    <string name="price">Price: </string>
+    <string name="alert_tittle">Game Tittle Example</string>
+    <string name="alert_move_forward">Read more</string>
+
+    <string name="details_gallery">Gallery</string>
+    <string name="no_results">No results matches</string>
+    <string name="details_description">Info</string>
+    <string name="details_video">Video</string>
+    <string name="details_shop">Shop</string>
+    <string name="search_for_a_game">search for a game&#8230;</string>
+
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="no_data_to_show">You didn\'t add any favourite games yet</string>
+
+    <string name="leave_confirmation_title">Are you sure you want to leave?</string>
+    <string name="leave_confirmation_subtitle">The app will be closed&#8230;</string>
+    <string name="data_updated">Games list has been updated</string>
+    <string name="data_updating">Games update in progress</string>
+    <string name="data_updating_done">Done!</string>
+    <string name="shop_logo">Shop logo</string>
+</resources>
